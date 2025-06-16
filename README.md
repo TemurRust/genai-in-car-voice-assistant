@@ -1,4 +1,4 @@
-Demo: Smarter In-Car Voice Assistants with Generative AI and MongoDB
+Demo: Smarter In-Car Voice Assistants with Generative AI and MongoDB  
 https://www.youtube.com/watch?v=gNqVts68xgg
 
 # GenAI-Powered In-Car Voice Assistant
