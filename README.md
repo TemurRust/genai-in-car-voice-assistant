@@ -1,3 +1,6 @@
+Demo: Smarter In-Car Voice Assistants with Generative AI and MongoDB
+https://www.youtube.com/watch?v=gNqVts68xgg
+
 # GenAI-Powered In-Car Voice Assistant
 
 This demo showcases an AI-driven voice assistant for vehicles, leveraging **Generative AI** and **MongoDB Atlas** to provide a smarter, more intuitive in-car experience. Unlike traditional voice assistants that are limited to basic commands, this solution enables **context-aware** interactions, **real-time vehicle diagnostics**, and **personalized recommendations** for drivers.
